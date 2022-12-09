@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Guess game</string>
+    <string name="title_activity_playing_ui">PlayingUI</string>
+</resources>
